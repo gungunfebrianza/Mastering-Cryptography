@@ -15,7 +15,12 @@ completeHash("string", "salt")
 <h3> Decrypt </h3>
 unHash("cipher", "salt")
 
+## How to use SHA-512
+<h3> Hash </h3>
+hex_sha512("string")
+
 #Logs
 <p> - Add Chinzo-72 (25-08-2016) </p>
 <p> - Add Arabica2RS (25-08-2016) </p>
-<p> - Add AER-256 (25-08-2016) (/p)
+<p> - Add AER-256 (25-08-2016) </p>
+<p> - Add SHA-512 (26-08-2016) </p>

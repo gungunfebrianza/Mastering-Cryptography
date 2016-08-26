@@ -8,7 +8,7 @@ _encode("plaintext")
 <h3> Decode </h3>
 _decode("cipher")
 
-## How to use AER-256
+## How to use AER-256 & ARMON-64
 <h3> Encrypt </h3>
 completeHash("string", "salt")
 

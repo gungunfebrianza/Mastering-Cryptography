@@ -24,3 +24,4 @@ hex_sha512("string")
 <p> - Add Arabica2RS (25-08-2016) </p>
 <p> - Add AER-256 (25-08-2016) </p>
 <p> - Add SHA-512 (26-08-2016) </p>
+<p> - Add ARMON-64 (26-08-2016) </p>

@@ -1,6 +1,10 @@
 # cryptography-killerpacks
 Encrypt - Decrypt, Assymetric - Symmetric, Encode - Decode, &amp; Hash Pack
 
+## How to use ROT-13
+<h3> Encrypt </h3>
+rot13("string")
+
 ## How to use BASE-64
 <h3> Encode </h3>
 ebase("plaintext")
@@ -40,3 +44,5 @@ hex_sha512("string")
 <p> - Add SHA-512 (26-08-2016) </p>
 <p> - Add ARMON-64 (26-08-2016) </p>
 <p> - Add ATOM-128 (26-08-2016) </p>
+<p> - Add BASE-64 (26-08-2016) </p>
+<p> - Add ROT-13 (26-08-2016) </p>

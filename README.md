@@ -1,6 +1,13 @@
 # cryptography-killerpacks
 Encrypt - Decrypt, Assymetric - Symmetric, Encode - Decode, &amp; Hash Pack
 
+## How to use BASE-64
+<h3> Encode </h3>
+ebase("plaintext")
+
+<h3> Decode </h3>
+dbase("cipher")
+
 ## How to use CHINZO-72C & ARABICA2RS
 <h3> Encode </h3>
 _encode("plaintext")

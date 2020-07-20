@@ -37,7 +37,7 @@ a128("cipher")
 <h3> Hash </h3>
 hex_sha512("string")
 
-#Logs
+# Logs
 <p> - Add Chinzo-72 (25-08-2016) </p>
 <p> - Add Arabica2RS (25-08-2016) </p>
 <p> - Add AER-256 (25-08-2016) </p>
